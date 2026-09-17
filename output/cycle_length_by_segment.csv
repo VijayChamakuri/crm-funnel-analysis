@@ -1,0 +1,7 @@
+segment,outcome,avg_cycle_days,n
+Enterprise,Lost,95.8,60
+Enterprise,Won,96.3,27
+Mid-Market,Lost,44.3,134
+Mid-Market,Won,42.4,64
+SMB,Lost,16.3,163
+SMB,Won,17.3,111

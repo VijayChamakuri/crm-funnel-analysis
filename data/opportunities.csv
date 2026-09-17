@@ -1,0 +1,651 @@
+opp_id,segment,lead_source,owner,amount,created_date,close_date,cycle_days,furthest_stage,furthest_stage_idx,outcome,loss_reason
+OPP-00001,SMB,Outbound,Rep E,4166.69,2026-05-25,2026-06-12,18.0,Proposal,2,Lost,Price
+OPP-00002,Mid-Market,Outbound,Rep C,16705.96,2026-06-21,2026-07-25,34.0,Qualification,1,Lost,Competitor
+OPP-00003,SMB,Inbound,Rep F,6212.47,2026-01-03,2026-01-17,14.0,Qualification,1,Lost,Price
+OPP-00004,SMB,Inbound,Rep F,3975.89,2026-05-23,2026-06-15,23.0,Negotiation,3,Won,
+OPP-00005,Mid-Market,Partner,Rep G,19530.82,2025-11-04,2026-01-01,58.0,Negotiation,3,Won,
+OPP-00006,Mid-Market,Outbound,Rep D,7799.91,2026-01-30,2026-03-11,40.0,Negotiation,3,Won,
+OPP-00007,SMB,Outbound,Rep F,500.0,2026-04-03,2026-04-18,15.0,Qualification,1,Lost,Price
+OPP-00008,SMB,Inbound,Rep D,2713.04,2025-12-09,,,Negotiation,3,Open,
+OPP-00009,SMB,Outbound,Rep C,2359.12,2026-04-08,2026-04-27,19.0,Qualification,1,Lost,Price
+OPP-00010,SMB,Partner,Rep F,2295.9,2025-11-13,2025-12-01,18.0,Qualification,1,Lost,Price
+OPP-00011,Mid-Market,Inbound,Rep D,7870.21,2026-06-27,2026-07-22,25.0,Qualification,1,Lost,No Decision
+OPP-00012,Mid-Market,Partner,Rep G,16561.94,2026-06-06,2026-07-06,30.0,Negotiation,3,Won,
+OPP-00013,SMB,Outbound,Rep D,2108.78,2026-05-15,2026-05-21,6.0,Proposal,2,Lost,Competitor
+OPP-00014,Mid-Market,Inbound,Rep G,19539.98,2025-12-19,,,Qualification,1,Open,
+OPP-00015,SMB,Outbound,Rep G,1610.14,2026-01-09,2026-01-23,14.0,Negotiation,3,Won,
+OPP-00016,Enterprise,Outbound,Rep B,95972.98,2025-12-30,2026-04-29,120.0,Proposal,2,Lost,No Budget
+OPP-00017,SMB,Inbound,Rep E,2081.85,2026-05-27,2026-06-12,16.0,Negotiation,3,Won,
+OPP-00018,Mid-Market,Inbound,Rep E,14595.84,2026-04-08,2026-05-22,44.0,Negotiation,3,Won,
+OPP-00019,Enterprise,Inbound,Rep B,59617.09,2026-01-30,2026-07-07,158.0,Negotiation,3,Lost,Competitor
+OPP-00020,Mid-Market,Inbound,Rep A,13416.49,2025-10-12,2025-12-02,51.0,Negotiation,3,Lost,No Budget
+OPP-00021,Enterprise,Event,Rep A,130710.06,2026-02-12,2026-05-24,101.0,Negotiation,3,Won,
+OPP-00022,Mid-Market,Inbound,Rep E,9428.72,2025-11-04,2025-11-28,24.0,Negotiation,3,Won,
+OPP-00023,SMB,Outbound,Rep F,5108.07,2026-05-18,2026-05-28,10.0,Prospecting,0,Lost,Price
+OPP-00024,SMB,Inbound,Rep G,3965.91,2026-03-02,2026-03-05,3.0,Qualification,1,Lost,Timing
+OPP-00025,Mid-Market,Partner,Rep G,14610.81,2026-02-07,2026-03-19,40.0,Qualification,1,Lost,No Decision
+OPP-00026,SMB,Outbound,Rep B,3264.86,2025-11-11,2025-11-20,9.0,Proposal,2,Lost,No Decision
+OPP-00027,Mid-Market,Outbound,Rep F,20209.24,2026-04-19,2026-06-21,63.0,Proposal,2,Lost,No Budget
+OPP-00028,Enterprise,Outbound,Rep G,66469.62,2026-03-04,2026-05-11,68.0,Qualification,1,Lost,Competitor
+OPP-00029,Mid-Market,Partner,Rep H,9799.03,2025-11-08,2025-12-17,39.0,Negotiation,3,Won,
+OPP-00030,SMB,Event,Rep A,3652.15,2025-11-14,,,Proposal,2,Open,
+OPP-00031,SMB,Inbound,Rep A,2167.01,2026-04-12,2026-05-03,21.0,Negotiation,3,Won,
+OPP-00032,Mid-Market,Event,Rep G,20215.46,2025-12-05,2026-01-17,43.0,Prospecting,0,Lost,Competitor
+OPP-00033,Mid-Market,Inbound,Rep G,26338.0,2026-05-26,,,Negotiation,3,Open,
+OPP-00034,Enterprise,Event,Rep G,68496.63,2026-02-08,2026-05-21,102.0,Negotiation,3,Won,
+OPP-00035,Mid-Market,Outbound,Rep H,500.0,2026-03-18,2026-04-28,41.0,Negotiation,3,Won,
+OPP-00036,SMB,Outbound,Rep G,5591.03,2026-01-18,2026-01-23,5.0,Proposal,2,Lost,Price
+OPP-00037,Enterprise,Event,Rep G,126209.42,2026-03-17,2026-07-03,108.0,Proposal,2,Lost,No Budget
+OPP-00038,SMB,Partner,Rep D,1232.54,2026-05-30,,,Negotiation,3,Open,
+OPP-00039,SMB,Partner,Rep E,4096.16,2025-11-11,2025-11-16,5.0,Proposal,2,Lost,Timing
+OPP-00040,Mid-Market,Event,Rep A,9484.08,2026-03-16,2026-04-19,34.0,Proposal,2,Lost,Competitor
+OPP-00041,Mid-Market,Partner,Rep C,20897.23,2026-02-19,2026-04-29,69.0,Negotiation,3,Won,
+OPP-00042,SMB,Inbound,Rep D,4269.88,2026-04-14,2026-04-27,13.0,Negotiation,3,Lost,Price
+OPP-00043,SMB,Inbound,Rep F,2771.22,2026-06-23,2026-07-14,21.0,Negotiation,3,Lost,Competitor
+OPP-00044,Enterprise,Partner,Rep E,85399.91,2026-01-31,2026-06-14,134.0,Negotiation,3,Won,
+OPP-00045,Enterprise,Outbound,Rep D,14876.72,2026-01-20,,,Prospecting,0,Open,
+OPP-00046,Mid-Market,Inbound,Rep D,6791.05,2025-12-22,2026-01-24,33.0,Prospecting,0,Lost,No Decision
+OPP-00047,Enterprise,Inbound,Rep G,109568.38,2025-10-19,2026-01-26,99.0,Negotiation,3,Won,
+OPP-00048,SMB,Inbound,Rep G,3295.16,2026-06-13,2026-07-07,24.0,Negotiation,3,Won,
+OPP-00049,SMB,Inbound,Rep G,1055.29,2026-06-11,,,Proposal,2,Open,
+OPP-00050,Mid-Market,Event,Rep A,25624.52,2025-10-10,2025-12-13,64.0,Negotiation,3,Won,
+OPP-00051,Mid-Market,Partner,Rep G,18644.89,2025-11-12,2025-12-14,32.0,Negotiation,3,Won,
+OPP-00052,SMB,Partner,Rep E,926.73,2026-03-25,,,Negotiation,3,Open,
+OPP-00053,Enterprise,Partner,Rep D,63824.98,2026-05-11,2026-07-28,78.0,Proposal,2,Lost,No Budget
+OPP-00054,SMB,Event,Rep B,2485.82,2026-04-28,2026-05-04,6.0,Prospecting,0,Lost,Competitor
+OPP-00055,SMB,Outbound,Rep B,3104.07,2025-12-27,2026-01-15,19.0,Proposal,2,Lost,Competitor
+OPP-00056,SMB,Inbound,Rep A,500.0,2025-10-11,2025-10-20,9.0,Negotiation,3,Won,
+OPP-00057,SMB,Outbound,Rep C,2389.38,2026-04-08,2026-04-23,15.0,Proposal,2,Lost,Competitor
+OPP-00058,Mid-Market,Inbound,Rep E,19561.56,2026-04-30,2026-07-05,66.0,Proposal,2,Lost,Timing
+OPP-00059,SMB,Partner,Rep D,3918.73,2026-05-26,,,Qualification,1,Open,
+OPP-00060,SMB,Inbound,Rep D,4403.32,2025-10-05,2025-10-08,3.0,Qualification,1,Lost,Price
+OPP-00061,Mid-Market,Inbound,Rep B,500.0,2026-06-25,2026-07-31,36.0,Proposal,2,Lost,No Budget
+OPP-00062,SMB,Outbound,Rep C,4186.21,2025-11-16,2025-12-06,20.0,Negotiation,3,Lost,Competitor
+OPP-00063,Mid-Market,Event,Rep A,16660.59,2026-01-02,,,Negotiation,3,Open,
+OPP-00064,SMB,Outbound,Rep G,2457.34,2026-06-25,,,Proposal,2,Open,
+OPP-00065,SMB,Outbound,Rep B,4721.72,2025-10-26,2025-10-29,3.0,Proposal,2,Lost,No Budget
+OPP-00066,Mid-Market,Partner,Rep E,10940.25,2025-12-24,2026-02-17,55.0,Negotiation,3,Lost,Timing
+OPP-00067,Mid-Market,Event,Rep A,12725.31,2026-01-03,2026-02-01,29.0,Prospecting,0,Lost,Competitor
+OPP-00068,Enterprise,Outbound,Rep D,116506.46,2025-10-05,2026-01-30,117.0,Qualification,1,Lost,No Budget
+OPP-00069,SMB,Inbound,Rep B,1650.46,2026-07-08,2026-07-27,19.0,Negotiation,3,Lost,No Decision
+OPP-00070,Mid-Market,Event,Rep E,10495.07,2026-04-02,2026-05-27,55.0,Proposal,2,Lost,No Decision
+OPP-00071,Enterprise,Inbound,Rep G,148745.46,2025-10-11,2025-11-25,45.0,Negotiation,3,Lost,No Budget
+OPP-00072,Enterprise,Outbound,Rep A,129605.65,2026-04-02,2026-06-17,76.0,Prospecting,0,Lost,No Budget
+OPP-00073,SMB,Inbound,Rep G,3352.91,2026-05-20,2026-05-26,6.0,Negotiation,3,Lost,Price
+OPP-00074,SMB,Outbound,Rep B,3048.16,2026-04-12,,,Negotiation,3,Open,
+OPP-00075,SMB,Event,Rep E,1439.12,2026-01-14,2026-01-17,3.0,Proposal,2,Lost,Price
+OPP-00076,SMB,Event,Rep F,1329.92,2026-01-05,2026-01-27,22.0,Negotiation,3,Lost,Price
+OPP-00077,SMB,Inbound,Rep A,500.0,2026-06-19,2026-07-08,19.0,Negotiation,3,Won,
+OPP-00078,SMB,Inbound,Rep E,3880.89,2026-02-07,2026-02-27,20.0,Proposal,2,Lost,No Decision
+OPP-00079,Mid-Market,Outbound,Rep H,17428.89,2026-01-02,2026-01-21,19.0,Negotiation,3,Lost,No Budget
+OPP-00080,Mid-Market,Inbound,Rep C,8782.19,2025-11-08,2026-01-04,57.0,Negotiation,3,Won,
+OPP-00081,Mid-Market,Partner,Rep E,23717.43,2026-06-07,2026-07-31,54.0,Negotiation,3,Lost,Timing
+OPP-00082,SMB,Outbound,Rep G,5247.56,2026-07-06,2026-07-20,14.0,Prospecting,0,Lost,No Decision
+OPP-00083,SMB,Inbound,Rep A,1554.54,2026-03-02,2026-03-12,10.0,Negotiation,3,Won,
+OPP-00084,SMB,Inbound,Rep B,4573.76,2025-12-01,2025-12-11,10.0,Proposal,2,Lost,Price
+OPP-00085,SMB,Event,Rep B,2683.96,2026-01-07,2026-01-15,8.0,Negotiation,3,Lost,Price
+OPP-00086,SMB,Inbound,Rep A,755.04,2025-12-07,2025-12-17,10.0,Prospecting,0,Lost,Competitor
+OPP-00087,Mid-Market,Inbound,Rep E,16686.3,2025-10-03,2025-11-21,49.0,Negotiation,3,Won,
+OPP-00088,SMB,Outbound,Rep A,4502.62,2026-03-14,2026-04-10,27.0,Negotiation,3,Won,
+OPP-00089,Enterprise,Outbound,Rep D,71989.92,2025-11-30,2026-02-06,68.0,Proposal,2,Lost,No Decision
+OPP-00090,SMB,Partner,Rep B,4282.53,2026-03-19,2026-04-11,23.0,Negotiation,3,Won,
+OPP-00091,SMB,Inbound,Rep G,500.0,2025-11-17,2025-12-05,18.0,Negotiation,3,Lost,Price
+OPP-00092,Enterprise,Outbound,Rep A,85421.86,2026-02-19,2026-05-31,101.0,Negotiation,3,Lost,Price
+OPP-00093,SMB,Event,Rep E,3017.17,2026-06-09,2026-06-28,19.0,Qualification,1,Lost,Price
+OPP-00094,Mid-Market,Inbound,Rep E,20738.85,2025-10-06,2025-10-24,18.0,Negotiation,3,Won,
+OPP-00095,Enterprise,Inbound,Rep E,47070.54,2026-02-13,2026-05-29,105.0,Negotiation,3,Lost,No Decision
+OPP-00096,SMB,Outbound,Rep E,2696.88,2026-03-01,2026-03-14,13.0,Negotiation,3,Won,
+OPP-00097,Enterprise,Inbound,Rep B,94562.14,2025-11-13,2026-01-12,60.0,Negotiation,3,Lost,Competitor
+OPP-00098,SMB,Partner,Rep F,3043.66,2026-02-26,2026-03-16,18.0,Negotiation,3,Lost,Competitor
+OPP-00099,SMB,Event,Rep F,1658.48,2025-11-29,2025-12-14,15.0,Negotiation,3,Won,
+OPP-00100,Enterprise,Inbound,Rep G,146379.19,2025-12-24,2026-03-26,92.0,Proposal,2,Lost,No Budget
+OPP-00101,Mid-Market,Event,Rep E,24360.21,2026-01-11,,,Qualification,1,Open,
+OPP-00102,SMB,Outbound,Rep A,3999.86,2025-10-30,2025-11-09,10.0,Qualification,1,Lost,Price
+OPP-00103,SMB,Outbound,Rep C,2122.69,2025-10-14,2025-10-31,17.0,Proposal,2,Lost,Competitor
+OPP-00104,SMB,Inbound,Rep B,2844.87,2026-06-17,2026-07-04,17.0,Negotiation,3,Lost,Price
+OPP-00105,SMB,Inbound,Rep C,2352.99,2026-06-13,2026-06-16,3.0,Negotiation,3,Won,
+OPP-00106,SMB,Inbound,Rep D,4574.01,2026-05-04,2026-05-16,12.0,Negotiation,3,Won,
+OPP-00107,SMB,Partner,Rep B,2778.84,2026-06-16,,,Prospecting,0,Open,
+OPP-00108,SMB,Inbound,Rep H,1385.63,2026-01-30,2026-02-10,11.0,Negotiation,3,Won,
+OPP-00109,Mid-Market,Event,Rep E,11259.57,2025-12-02,2026-01-23,52.0,Negotiation,3,Won,
+OPP-00110,Enterprise,Event,Rep G,64999.28,2026-01-14,2026-04-14,90.0,Proposal,2,Lost,Price
+OPP-00111,SMB,Event,Rep A,5471.09,2026-03-08,2026-03-28,20.0,Negotiation,3,Won,
+OPP-00112,SMB,Inbound,Rep D,3317.41,2026-03-20,2026-04-14,25.0,Negotiation,3,Won,
+OPP-00113,Mid-Market,Inbound,Rep G,20680.2,2026-02-19,2026-02-22,3.0,Qualification,1,Lost,Price
+OPP-00114,SMB,Partner,Rep H,6364.38,2026-05-17,2026-06-03,17.0,Proposal,2,Lost,No Budget
+OPP-00115,SMB,Event,Rep C,1886.71,2025-11-06,2025-12-01,25.0,Qualification,1,Lost,No Decision
+OPP-00116,SMB,Partner,Rep C,4657.02,2026-03-24,2026-04-07,14.0,Qualification,1,Lost,Price
+OPP-00117,Mid-Market,Partner,Rep E,8170.12,2026-04-10,2026-05-29,49.0,Proposal,2,Lost,Competitor
+OPP-00118,Enterprise,Inbound,Rep A,131018.28,2026-01-29,2026-04-30,91.0,Negotiation,3,Lost,No Budget
+OPP-00119,Mid-Market,Inbound,Rep F,22437.37,2025-10-24,2025-12-08,45.0,Proposal,2,Lost,Price
+OPP-00120,SMB,Inbound,Rep D,2248.88,2025-12-14,2025-12-18,4.0,Negotiation,3,Won,
+OPP-00121,SMB,Inbound,Rep C,3509.81,2025-11-27,2025-12-17,20.0,Negotiation,3,Lost,No Budget
+OPP-00122,SMB,Outbound,Rep C,4568.3,2026-01-20,2026-02-16,27.0,Negotiation,3,Won,
+OPP-00123,SMB,Event,Rep H,2163.34,2026-05-28,2026-06-21,24.0,Proposal,2,Lost,No Budget
+OPP-00124,SMB,Inbound,Rep E,2193.51,2026-05-27,2026-06-18,22.0,Negotiation,3,Lost,Timing
+OPP-00125,SMB,Outbound,Rep F,3224.76,2025-12-13,2026-01-03,21.0,Qualification,1,Lost,Timing
+OPP-00126,Enterprise,Inbound,Rep B,82891.19,2026-04-12,2026-06-13,62.0,Negotiation,3,Won,
+OPP-00127,Mid-Market,Inbound,Rep A,6850.44,2025-11-12,2025-12-13,31.0,Negotiation,3,Lost,No Decision
+OPP-00128,SMB,Inbound,Rep D,3648.89,2026-06-11,2026-06-29,18.0,Negotiation,3,Won,
+OPP-00129,Mid-Market,Inbound,Rep B,13827.38,2026-03-28,2026-05-12,45.0,Negotiation,3,Lost,Competitor
+OPP-00130,SMB,Partner,Rep D,4460.5,2026-02-06,2026-03-05,27.0,Negotiation,3,Won,
+OPP-00131,Mid-Market,Inbound,Rep C,8509.3,2026-01-22,2026-02-24,33.0,Negotiation,3,Lost,Competitor
+OPP-00132,Enterprise,Inbound,Rep G,87764.61,2025-10-28,2026-03-06,129.0,Negotiation,3,Won,
+OPP-00133,SMB,Inbound,Rep A,2646.26,2026-04-07,2026-04-23,16.0,Negotiation,3,Won,
+OPP-00134,SMB,Event,Rep D,1658.69,2026-05-26,,,Qualification,1,Open,
+OPP-00135,Mid-Market,Inbound,Rep D,18260.59,2026-04-15,2026-05-28,43.0,Negotiation,3,Won,
+OPP-00136,SMB,Inbound,Rep F,4035.16,2025-11-20,2025-12-11,21.0,Qualification,1,Lost,No Decision
+OPP-00137,SMB,Outbound,Rep G,4046.73,2026-06-09,2026-06-27,18.0,Qualification,1,Lost,Price
+OPP-00138,Mid-Market,Inbound,Rep C,11103.89,2026-05-15,2026-06-16,32.0,Negotiation,3,Won,
+OPP-00139,SMB,Outbound,Rep F,500.0,2026-01-29,2026-02-15,17.0,Proposal,2,Lost,Price
+OPP-00140,SMB,Outbound,Rep B,4282.03,2025-10-20,,,Qualification,1,Open,
+OPP-00141,SMB,Event,Rep G,3919.45,2026-02-13,2026-03-01,16.0,Prospecting,0,Lost,Price
+OPP-00142,Mid-Market,Inbound,Rep F,11514.27,2025-10-24,2025-12-30,67.0,Qualification,1,Lost,Price
+OPP-00143,Enterprise,Inbound,Rep C,54217.16,2025-11-07,2026-04-19,163.0,Negotiation,3,Won,
+OPP-00144,Enterprise,Event,Rep C,500.0,2025-10-30,2025-12-22,53.0,Negotiation,3,Won,
+OPP-00145,Enterprise,Partner,Rep A,99384.39,2025-10-09,2026-02-04,118.0,Negotiation,3,Won,
+OPP-00146,Enterprise,Outbound,Rep G,104816.57,2026-05-11,2026-07-28,78.0,Negotiation,3,Lost,No Budget
+OPP-00147,SMB,Outbound,Rep D,3855.81,2025-10-30,2025-11-21,22.0,Qualification,1,Lost,Competitor
+OPP-00148,SMB,Outbound,Rep B,2381.78,2026-01-27,2026-01-30,3.0,Proposal,2,Lost,Competitor
+OPP-00149,Mid-Market,Outbound,Rep C,23421.46,2025-10-25,2025-12-08,44.0,Qualification,1,Lost,Price
+OPP-00150,Mid-Market,Partner,Rep C,17191.51,2026-06-11,2026-07-13,32.0,Prospecting,0,Lost,No Decision
+OPP-00151,SMB,Event,Rep H,3035.03,2026-04-17,2026-04-30,13.0,Negotiation,3,Won,
+OPP-00152,Mid-Market,Event,Rep E,3901.28,2025-10-02,2025-11-27,56.0,Negotiation,3,Lost,Competitor
+OPP-00153,Mid-Market,Inbound,Rep F,15237.99,2026-03-06,2026-03-19,13.0,Negotiation,3,Lost,Price
+OPP-00154,Mid-Market,Event,Rep B,3409.18,2026-01-29,2026-03-24,54.0,Proposal,2,Lost,Competitor
+OPP-00155,SMB,Outbound,Rep B,4206.86,2025-12-23,2026-01-04,12.0,Prospecting,0,Lost,Competitor
+OPP-00156,SMB,Outbound,Rep A,1859.24,2026-01-19,2026-02-01,13.0,Negotiation,3,Won,
+OPP-00157,SMB,Outbound,Rep H,2814.29,2026-01-06,,,Prospecting,0,Open,
+OPP-00158,Enterprise,Outbound,Rep B,150082.32,2026-02-05,2026-05-25,109.0,Proposal,2,Lost,No Budget
+OPP-00159,SMB,Outbound,Rep G,1451.4,2025-10-11,2025-11-16,36.0,Negotiation,3,Won,
+OPP-00160,Enterprise,Inbound,Rep C,39784.12,2026-03-16,2026-06-29,105.0,Negotiation,3,Lost,No Budget
+OPP-00161,SMB,Outbound,Rep H,4374.47,2026-01-02,2026-01-06,4.0,Negotiation,3,Won,
+OPP-00162,Enterprise,Inbound,Rep F,118585.67,2026-06-07,2026-07-26,49.0,Prospecting,0,Lost,Timing
+OPP-00163,Mid-Market,Outbound,Rep G,20038.62,2026-03-17,2026-05-23,67.0,Qualification,1,Lost,Competitor
+OPP-00164,SMB,Inbound,Rep F,3504.6,2026-07-02,2026-07-12,10.0,Negotiation,3,Won,
+OPP-00165,SMB,Inbound,Rep A,5793.48,2026-02-23,2026-03-17,22.0,Qualification,1,Lost,Price
+OPP-00166,SMB,Inbound,Rep B,4042.01,2026-03-03,2026-03-23,20.0,Negotiation,3,Won,
+OPP-00167,Mid-Market,Outbound,Rep B,7024.49,2025-12-24,,,Qualification,1,Open,
+OPP-00168,SMB,Event,Rep B,3042.03,2026-03-06,2026-03-22,16.0,Negotiation,3,Won,
+OPP-00169,Mid-Market,Outbound,Rep B,24448.06,2025-11-12,2026-01-05,54.0,Negotiation,3,Won,
+OPP-00170,SMB,Outbound,Rep D,3355.42,2026-02-03,2026-02-20,17.0,Proposal,2,Lost,Competitor
+OPP-00171,SMB,Outbound,Rep B,2783.96,2026-07-07,2026-07-27,20.0,Proposal,2,Lost,Price
+OPP-00172,Mid-Market,Outbound,Rep B,15233.29,2026-03-01,2026-05-07,67.0,Qualification,1,Lost,No Budget
+OPP-00173,Mid-Market,Event,Rep F,21217.94,2026-02-02,2026-04-02,59.0,Qualification,1,Lost,No Budget
+OPP-00174,SMB,Inbound,Rep C,2979.88,2026-06-28,2026-07-01,3.0,Negotiation,3,Won,
+OPP-00175,Enterprise,Inbound,Rep C,100749.24,2026-03-21,2026-07-10,111.0,Qualification,1,Lost,No Budget
+OPP-00176,SMB,Inbound,Rep B,3268.11,2025-11-07,2025-11-20,13.0,Prospecting,0,Lost,Competitor
+OPP-00177,Mid-Market,Partner,Rep A,9729.65,2025-12-04,2026-01-09,36.0,Negotiation,3,Won,
+OPP-00178,SMB,Inbound,Rep G,500.0,2025-12-30,2026-01-16,17.0,Negotiation,3,Won,
+OPP-00179,SMB,Inbound,Rep G,500.0,2026-06-23,2026-07-12,19.0,Negotiation,3,Lost,No Decision
+OPP-00180,Mid-Market,Event,Rep C,16681.31,2026-02-01,,,Proposal,2,Open,
+OPP-00181,SMB,Outbound,Rep A,3833.04,2026-03-07,2026-03-27,20.0,Negotiation,3,Won,
+OPP-00182,SMB,Partner,Rep A,1604.6,2026-06-02,2026-07-02,30.0,Negotiation,3,Won,
+OPP-00183,SMB,Outbound,Rep G,2645.01,2026-03-18,2026-03-21,3.0,Negotiation,3,Won,
+OPP-00184,SMB,Inbound,Rep F,2451.8,2026-04-22,2026-04-28,6.0,Negotiation,3,Won,
+OPP-00185,Mid-Market,Inbound,Rep H,15255.72,2026-03-24,2026-05-10,47.0,Negotiation,3,Won,
+OPP-00186,SMB,Event,Rep E,4094.57,2025-12-15,2025-12-20,5.0,Qualification,1,Lost,Timing
+OPP-00187,SMB,Inbound,Rep C,4543.17,2025-10-12,2025-10-15,3.0,Negotiation,3,Won,
+OPP-00188,Mid-Market,Inbound,Rep B,6653.61,2025-11-25,2025-12-04,9.0,Proposal,2,Lost,Timing
+OPP-00189,Mid-Market,Outbound,Rep D,20645.8,2026-01-11,2026-03-03,51.0,Negotiation,3,Won,
+OPP-00190,Mid-Market,Partner,Rep H,26851.78,2025-11-22,2025-12-15,23.0,Negotiation,3,Won,
+OPP-00191,Mid-Market,Event,Rep A,15313.39,2025-12-10,2026-01-28,49.0,Negotiation,3,Won,
+OPP-00192,Enterprise,Outbound,Rep H,22805.47,2025-10-08,2026-01-20,104.0,Negotiation,3,Lost,Competitor
+OPP-00193,Enterprise,Event,Rep B,2949.57,2025-10-09,2026-02-28,142.0,Proposal,2,Lost,Timing
+OPP-00194,SMB,Partner,Rep B,500.0,2026-06-03,2026-06-28,25.0,Negotiation,3,Lost,No Budget
+OPP-00195,SMB,Inbound,Rep H,761.84,2026-02-23,2026-03-13,18.0,Negotiation,3,Won,
+OPP-00196,Mid-Market,Event,Rep G,21754.08,2026-02-17,2026-03-28,39.0,Negotiation,3,Lost,No Budget
+OPP-00197,Enterprise,Event,Rep B,46495.26,2026-01-10,2026-04-11,91.0,Negotiation,3,Won,
+OPP-00198,SMB,Event,Rep A,1951.98,2026-07-10,2026-07-27,17.0,Negotiation,3,Won,
+OPP-00199,Mid-Market,Inbound,Rep C,24919.72,2026-04-30,,,Qualification,1,Open,
+OPP-00200,Mid-Market,Outbound,Rep B,26598.95,2026-01-03,2026-02-07,35.0,Negotiation,3,Won,
+OPP-00201,SMB,Event,Rep G,641.21,2026-05-12,2026-05-18,6.0,Negotiation,3,Won,
+OPP-00202,Mid-Market,Partner,Rep A,34622.25,2025-10-08,2025-10-26,18.0,Proposal,2,Lost,No Budget
+OPP-00203,Mid-Market,Outbound,Rep A,19818.65,2026-05-06,2026-07-05,60.0,Proposal,2,Lost,Price
+OPP-00204,Enterprise,Event,Rep D,64571.19,2025-11-08,2026-01-26,79.0,Negotiation,3,Won,
+OPP-00205,SMB,Inbound,Rep A,4691.03,2026-05-26,2026-06-13,18.0,Proposal,2,Lost,Timing
+OPP-00206,Mid-Market,Outbound,Rep H,7906.15,2026-01-01,2026-02-07,37.0,Negotiation,3,Won,
+OPP-00207,Mid-Market,Inbound,Rep D,28341.76,2025-12-23,2026-02-13,52.0,Prospecting,0,Lost,Timing
+OPP-00208,SMB,Inbound,Rep B,1838.23,2025-12-26,2026-01-08,13.0,Negotiation,3,Won,
+OPP-00209,Mid-Market,Outbound,Rep D,10784.98,2026-03-29,2026-05-14,46.0,Prospecting,0,Lost,Competitor
+OPP-00210,SMB,Inbound,Rep E,4263.19,2026-05-08,2026-05-18,10.0,Proposal,2,Lost,Timing
+OPP-00211,SMB,Outbound,Rep A,3445.37,2026-03-07,2026-03-14,7.0,Prospecting,0,Lost,Competitor
+OPP-00212,SMB,Event,Rep E,4031.64,2026-06-25,2026-07-22,27.0,Negotiation,3,Won,
+OPP-00213,SMB,Inbound,Rep E,3410.76,2026-05-01,,,Prospecting,0,Open,
+OPP-00214,Mid-Market,Inbound,Rep A,14898.91,2025-12-25,2026-02-07,44.0,Negotiation,3,Lost,Price
+OPP-00215,Enterprise,Outbound,Rep H,86389.27,2026-03-31,2026-08-01,123.0,Qualification,1,Lost,Competitor
+OPP-00216,Mid-Market,Event,Rep A,21387.88,2026-05-16,2026-06-26,41.0,Negotiation,3,Won,
+OPP-00217,Mid-Market,Partner,Rep H,22716.56,2026-06-02,2026-07-29,57.0,Negotiation,3,Lost,Price
+OPP-00218,SMB,Outbound,Rep A,3131.94,2026-01-25,2026-02-13,19.0,Qualification,1,Lost,Price
+OPP-00219,SMB,Event,Rep E,1034.55,2026-05-18,2026-05-21,3.0,Negotiation,3,Won,
+OPP-00220,SMB,Inbound,Rep C,2550.99,2025-10-16,2025-11-08,23.0,Negotiation,3,Won,
+OPP-00221,Mid-Market,Inbound,Rep F,8221.27,2026-01-20,,,Qualification,1,Open,
+OPP-00222,Enterprise,Inbound,Rep G,77683.87,2026-01-13,2026-05-08,115.0,Negotiation,3,Won,
+OPP-00223,Mid-Market,Partner,Rep B,10548.69,2025-12-26,2026-01-12,17.0,Negotiation,3,Won,
+OPP-00224,SMB,Inbound,Rep E,5133.16,2025-10-06,2025-10-20,14.0,Proposal,2,Lost,Timing
+OPP-00225,Mid-Market,Partner,Rep A,12517.74,2025-12-08,,,Prospecting,0,Open,
+OPP-00226,SMB,Outbound,Rep B,2325.04,2026-07-02,2026-07-11,9.0,Prospecting,0,Lost,No Decision
+OPP-00227,Enterprise,Inbound,Rep D,90156.28,2026-04-22,2026-07-11,80.0,Prospecting,0,Lost,Timing
+OPP-00228,Mid-Market,Outbound,Rep D,25177.44,2026-04-15,,,Qualification,1,Open,
+OPP-00229,Mid-Market,Partner,Rep E,17614.29,2026-06-27,2026-07-24,27.0,Qualification,1,Lost,Price
+OPP-00230,SMB,Event,Rep D,4940.26,2026-06-14,2026-06-21,7.0,Qualification,1,Lost,No Budget
+OPP-00231,Enterprise,Inbound,Rep A,8687.18,2025-10-20,2026-01-11,83.0,Prospecting,0,Lost,No Budget
+OPP-00232,Mid-Market,Inbound,Rep F,5565.21,2026-02-18,2026-03-25,35.0,Negotiation,3,Lost,No Budget
+OPP-00233,SMB,Event,Rep F,2593.66,2026-04-17,,,Qualification,1,Open,
+OPP-00234,SMB,Inbound,Rep B,4194.82,2025-12-20,,,Qualification,1,Open,
+OPP-00235,Mid-Market,Inbound,Rep C,4747.8,2025-12-03,2026-01-20,48.0,Negotiation,3,Won,
+OPP-00236,Mid-Market,Inbound,Rep F,16235.56,2025-10-06,2025-11-08,33.0,Proposal,2,Lost,Price
+OPP-00237,Mid-Market,Event,Rep C,24756.19,2025-12-13,2026-01-28,46.0,Negotiation,3,Lost,No Decision
+OPP-00238,SMB,Outbound,Rep A,3651.01,2026-01-04,2026-01-24,20.0,Negotiation,3,Won,
+OPP-00239,SMB,Partner,Rep E,1103.19,2026-02-07,,,Qualification,1,Open,
+OPP-00240,SMB,Event,Rep H,2957.88,2026-02-02,2026-02-14,12.0,Negotiation,3,Lost,Price
+OPP-00241,Mid-Market,Event,Rep C,7697.31,2026-05-04,2026-06-26,53.0,Negotiation,3,Lost,Price
+OPP-00242,SMB,Inbound,Rep D,4105.25,2025-11-22,2025-12-06,14.0,Negotiation,3,Won,
+OPP-00243,SMB,Inbound,Rep D,5874.67,2026-01-15,2026-01-26,11.0,Qualification,1,Lost,No Decision
+OPP-00244,SMB,Inbound,Rep E,4738.42,2026-04-16,,,Qualification,1,Open,
+OPP-00245,Mid-Market,Event,Rep B,13780.96,2026-07-03,2026-07-31,28.0,Negotiation,3,Won,
+OPP-00246,Mid-Market,Outbound,Rep E,16789.9,2025-10-04,2025-12-02,59.0,Prospecting,0,Lost,Price
+OPP-00247,SMB,Inbound,Rep G,2139.53,2026-01-21,2026-01-28,7.0,Negotiation,3,Won,
+OPP-00248,SMB,Inbound,Rep A,3580.59,2026-05-13,2026-05-21,8.0,Proposal,2,Lost,Competitor
+OPP-00249,SMB,Partner,Rep A,3944.11,2026-02-02,2026-02-21,19.0,Qualification,1,Lost,No Decision
+OPP-00250,SMB,Event,Rep G,3384.99,2026-04-16,,,Proposal,2,Open,
+OPP-00251,Mid-Market,Outbound,Rep G,10668.99,2025-12-15,2026-01-17,33.0,Negotiation,3,Won,
+OPP-00252,SMB,Inbound,Rep H,2611.19,2025-12-17,2026-01-04,18.0,Negotiation,3,Won,
+OPP-00253,SMB,Outbound,Rep D,1786.31,2026-02-22,2026-03-12,18.0,Negotiation,3,Won,
+OPP-00254,Mid-Market,Outbound,Rep D,18686.01,2026-03-26,2026-06-14,80.0,Prospecting,0,Lost,Competitor
+OPP-00255,SMB,Partner,Rep G,4888.67,2026-06-25,,,Qualification,1,Open,
+OPP-00256,Mid-Market,Inbound,Rep E,11401.24,2025-10-17,2025-12-15,59.0,Proposal,2,Lost,Price
+OPP-00257,Enterprise,Event,Rep C,96638.63,2026-03-18,2026-05-27,70.0,Negotiation,3,Won,
+OPP-00258,SMB,Event,Rep B,3868.74,2026-02-11,2026-03-11,28.0,Negotiation,3,Won,
+OPP-00259,SMB,Event,Rep F,2075.74,2026-02-11,2026-02-22,11.0,Negotiation,3,Won,
+OPP-00260,Enterprise,Inbound,Rep H,101836.0,2025-10-08,2026-01-26,110.0,Proposal,2,Lost,Price
+OPP-00261,Enterprise,Partner,Rep D,80736.82,2025-12-22,2026-03-12,80.0,Negotiation,3,Won,
+OPP-00262,SMB,Inbound,Rep H,3055.21,2025-11-26,2025-12-15,19.0,Qualification,1,Lost,Price
+OPP-00263,Mid-Market,Partner,Rep A,22233.54,2026-02-05,2026-04-07,61.0,Prospecting,0,Lost,Competitor
+OPP-00264,Mid-Market,Event,Rep D,27041.81,2026-02-09,,,Proposal,2,Open,
+OPP-00265,Mid-Market,Partner,Rep G,7601.07,2026-03-08,2026-04-23,46.0,Negotiation,3,Lost,Price
+OPP-00266,Mid-Market,Inbound,Rep B,19941.03,2025-11-17,2026-01-08,52.0,Qualification,1,Lost,Price
+OPP-00267,Enterprise,Partner,Rep G,53412.27,2026-05-02,2026-07-26,85.0,Qualification,1,Lost,Competitor
+OPP-00268,SMB,Partner,Rep E,2917.94,2026-06-21,2026-07-18,27.0,Proposal,2,Lost,Competitor
+OPP-00269,SMB,Outbound,Rep A,3370.02,2026-06-08,2026-07-04,26.0,Negotiation,3,Won,
+OPP-00270,SMB,Inbound,Rep G,4184.05,2026-05-05,2026-05-27,22.0,Prospecting,0,Lost,Price
+OPP-00271,SMB,Inbound,Rep C,3190.3,2025-12-03,2025-12-06,3.0,Proposal,2,Lost,Competitor
+OPP-00272,SMB,Partner,Rep C,3687.84,2026-06-05,2026-06-25,20.0,Negotiation,3,Won,
+OPP-00273,SMB,Inbound,Rep B,4712.22,2025-12-20,2026-01-16,27.0,Negotiation,3,Won,
+OPP-00274,Enterprise,Partner,Rep A,74285.83,2026-04-11,2026-06-30,80.0,Proposal,2,Lost,Timing
+OPP-00275,SMB,Outbound,Rep A,4936.54,2026-05-25,,,Qualification,1,Open,
+OPP-00276,Enterprise,Outbound,Rep D,97821.65,2025-12-31,2026-03-27,86.0,Proposal,2,Lost,Competitor
+OPP-00277,SMB,Inbound,Rep G,3775.05,2026-03-31,,,Qualification,1,Open,
+OPP-00278,Mid-Market,Partner,Rep A,19825.28,2025-10-13,2025-11-26,44.0,Prospecting,0,Lost,No Budget
+OPP-00279,SMB,Outbound,Rep B,2714.89,2025-10-04,2025-10-07,3.0,Qualification,1,Lost,Price
+OPP-00280,SMB,Outbound,Rep E,3932.4,2026-06-15,2026-07-02,17.0,Proposal,2,Lost,Price
+OPP-00281,SMB,Event,Rep E,5355.0,2026-01-31,2026-02-10,10.0,Prospecting,0,Lost,Price
+OPP-00282,Mid-Market,Inbound,Rep G,10295.37,2026-04-21,,,Negotiation,3,Open,
+OPP-00283,Enterprise,Partner,Rep A,60534.24,2026-03-08,2026-06-12,96.0,Proposal,2,Lost,Competitor
+OPP-00284,Mid-Market,Event,Rep A,6738.35,2026-01-18,2026-03-14,55.0,Qualification,1,Lost,Price
+OPP-00285,Mid-Market,Outbound,Rep G,14906.63,2026-03-03,2026-04-14,42.0,Negotiation,3,Lost,No Budget
+OPP-00286,Mid-Market,Outbound,Rep E,22031.89,2025-10-28,2025-11-29,32.0,Negotiation,3,Lost,No Budget
+OPP-00287,SMB,Outbound,Rep B,837.97,2026-03-15,2026-04-10,26.0,Proposal,2,Lost,Timing
+OPP-00288,Mid-Market,Outbound,Rep B,28849.23,2025-11-08,2025-12-16,38.0,Negotiation,3,Lost,Competitor
+OPP-00289,SMB,Inbound,Rep B,1472.53,2026-05-10,2026-05-28,18.0,Negotiation,3,Won,
+OPP-00290,Mid-Market,Event,Rep C,19934.9,2026-05-16,2026-07-14,59.0,Proposal,2,Lost,Price
+OPP-00291,Mid-Market,Outbound,Rep B,14793.43,2026-04-25,2026-06-20,56.0,Negotiation,3,Won,
+OPP-00292,Enterprise,Event,Rep A,70631.31,2026-01-05,2026-04-12,97.0,Negotiation,3,Won,
+OPP-00293,SMB,Inbound,Rep C,2768.08,2026-03-12,2026-03-20,8.0,Negotiation,3,Won,
+OPP-00294,Mid-Market,Inbound,Rep G,18112.91,2025-11-10,2025-12-18,38.0,Negotiation,3,Lost,No Budget
+OPP-00295,Mid-Market,Outbound,Rep E,16039.52,2026-02-14,2026-04-27,72.0,Prospecting,0,Lost,Competitor
+OPP-00296,Mid-Market,Outbound,Rep F,27644.15,2026-06-11,2026-07-25,44.0,Qualification,1,Lost,Competitor
+OPP-00297,SMB,Outbound,Rep G,2177.89,2025-10-07,2025-11-03,27.0,Prospecting,0,Lost,No Budget
+OPP-00298,Mid-Market,Partner,Rep H,20511.57,2026-01-06,,,Proposal,2,Open,
+OPP-00299,Mid-Market,Event,Rep A,18866.18,2026-04-21,2026-05-27,36.0,Proposal,2,Lost,No Budget
+OPP-00300,Enterprise,Inbound,Rep B,77517.11,2025-10-21,2025-11-30,40.0,Negotiation,3,Won,
+OPP-00301,SMB,Inbound,Rep H,2187.02,2026-01-20,2026-02-16,27.0,Proposal,2,Lost,Price
+OPP-00302,SMB,Event,Rep D,3921.66,2026-06-26,2026-07-19,23.0,Proposal,2,Lost,Timing
+OPP-00303,SMB,Inbound,Rep A,6030.96,2026-04-19,2026-04-23,4.0,Negotiation,3,Lost,Competitor
+OPP-00304,Mid-Market,Inbound,Rep B,23876.98,2026-04-15,2026-06-20,66.0,Negotiation,3,Lost,Price
+OPP-00305,Enterprise,Outbound,Rep D,92047.07,2025-12-07,2026-03-25,108.0,Prospecting,0,Lost,No Budget
+OPP-00306,Enterprise,Outbound,Rep F,56446.07,2025-11-20,2026-01-25,66.0,Negotiation,3,Lost,Timing
+OPP-00307,Mid-Market,Event,Rep E,24960.45,2026-04-07,2026-05-23,46.0,Negotiation,3,Lost,No Decision
+OPP-00308,SMB,Partner,Rep D,1765.95,2026-01-18,2026-02-14,27.0,Negotiation,3,Won,
+OPP-00309,SMB,Partner,Rep F,2868.25,2025-12-10,2025-12-29,19.0,Negotiation,3,Lost,Price
+OPP-00310,Mid-Market,Outbound,Rep C,13779.15,2026-02-03,2026-03-14,39.0,Proposal,2,Lost,Timing
+OPP-00311,Mid-Market,Inbound,Rep E,13218.36,2025-11-06,2026-01-13,68.0,Negotiation,3,Lost,Price
+OPP-00312,Mid-Market,Inbound,Rep D,11096.32,2026-05-17,2026-06-30,44.0,Qualification,1,Lost,Timing
+OPP-00313,SMB,Inbound,Rep E,3996.44,2026-03-05,2026-03-18,13.0,Negotiation,3,Lost,Competitor
+OPP-00314,Enterprise,Inbound,Rep C,95192.18,2025-11-04,2026-04-19,166.0,Negotiation,3,Won,
+OPP-00315,Enterprise,Inbound,Rep B,84275.28,2025-10-03,2025-12-19,77.0,Negotiation,3,Lost,No Budget
+OPP-00316,SMB,Inbound,Rep C,2366.16,2026-01-21,2026-02-08,18.0,Negotiation,3,Won,
+OPP-00317,SMB,Outbound,Rep F,5153.97,2026-02-11,2026-02-25,14.0,Negotiation,3,Lost,Competitor
+OPP-00318,SMB,Partner,Rep E,2667.61,2026-05-08,2026-06-02,25.0,Negotiation,3,Won,
+OPP-00319,SMB,Inbound,Rep B,4930.26,2026-06-10,,,Proposal,2,Open,
+OPP-00320,Mid-Market,Event,Rep H,24680.44,2026-02-10,2026-04-03,52.0,Prospecting,0,Lost,Competitor
+OPP-00321,SMB,Event,Rep E,2735.68,2026-07-09,2026-07-30,21.0,Negotiation,3,Lost,Price
+OPP-00322,Mid-Market,Inbound,Rep D,17010.18,2025-12-07,,,Qualification,1,Open,
+OPP-00323,SMB,Outbound,Rep A,4934.89,2026-04-27,2026-05-01,4.0,Negotiation,3,Lost,Price
+OPP-00324,Mid-Market,Inbound,Rep D,8886.46,2026-02-14,2026-04-25,70.0,Negotiation,3,Won,
+OPP-00325,Mid-Market,Partner,Rep F,35207.71,2025-10-15,2025-12-19,65.0,Negotiation,3,Won,
+OPP-00326,SMB,Inbound,Rep E,4569.08,2025-10-14,2025-10-28,14.0,Prospecting,0,Lost,Price
+OPP-00327,Mid-Market,Inbound,Rep F,25553.07,2026-06-14,2026-07-11,27.0,Prospecting,0,Lost,No Decision
+OPP-00328,Enterprise,Partner,Rep A,66029.86,2026-03-20,2026-06-02,74.0,Proposal,2,Lost,Timing
+OPP-00329,Mid-Market,Outbound,Rep D,16853.65,2026-01-08,,,Prospecting,0,Open,
+OPP-00330,SMB,Outbound,Rep G,5256.76,2026-03-22,2026-04-03,12.0,Negotiation,3,Won,
+OPP-00331,Mid-Market,Inbound,Rep E,13963.11,2025-12-25,2026-02-01,38.0,Proposal,2,Lost,Competitor
+OPP-00332,Mid-Market,Outbound,Rep D,21922.3,2025-12-23,,,Qualification,1,Open,
+OPP-00333,SMB,Outbound,Rep D,1527.14,2025-10-11,2025-10-22,11.0,Prospecting,0,Lost,Price
+OPP-00334,SMB,Inbound,Rep A,2369.24,2025-10-01,2025-10-14,13.0,Negotiation,3,Won,
+OPP-00335,Mid-Market,Inbound,Rep C,23902.22,2025-10-07,2025-10-28,21.0,Negotiation,3,Won,
+OPP-00336,SMB,Inbound,Rep H,5886.74,2026-07-24,,,Negotiation,3,Open,
+OPP-00337,Enterprise,Inbound,Rep G,102264.37,2026-04-18,,,Proposal,2,Open,
+OPP-00338,Enterprise,Inbound,Rep F,123362.25,2026-03-28,2026-07-18,112.0,Prospecting,0,Lost,No Budget
+OPP-00339,Mid-Market,Outbound,Rep F,16914.09,2026-04-23,,,Qualification,1,Open,
+OPP-00340,Enterprise,Inbound,Rep F,89415.78,2025-10-14,2026-01-06,84.0,Proposal,2,Lost,No Budget
+OPP-00341,Mid-Market,Outbound,Rep E,28705.19,2026-03-23,2026-05-07,45.0,Prospecting,0,Lost,Price
+OPP-00342,SMB,Event,Rep B,1016.71,2025-11-19,2025-12-02,13.0,Qualification,1,Lost,Timing
+OPP-00343,Enterprise,Event,Rep H,102902.98,2026-04-07,2026-07-15,99.0,Qualification,1,Lost,Price
+OPP-00344,SMB,Event,Rep B,2005.24,2025-10-30,2025-11-11,12.0,Negotiation,3,Won,
+OPP-00345,Mid-Market,Inbound,Rep G,8154.5,2026-01-23,2026-03-24,60.0,Negotiation,3,Won,
+OPP-00346,Enterprise,Outbound,Rep C,43030.9,2026-02-15,2026-06-06,111.0,Proposal,2,Lost,Competitor
+OPP-00347,SMB,Outbound,Rep B,1470.36,2026-03-03,2026-03-28,25.0,Negotiation,3,Lost,Timing
+OPP-00348,SMB,Outbound,Rep A,3415.23,2026-04-14,2026-04-21,7.0,Prospecting,0,Lost,Timing
+OPP-00349,Mid-Market,Inbound,Rep C,27951.39,2026-03-07,,,Proposal,2,Open,
+OPP-00350,SMB,Partner,Rep C,2801.85,2026-04-18,2026-05-07,19.0,Negotiation,3,Lost,Price
+OPP-00351,SMB,Inbound,Rep C,2507.82,2026-02-21,2026-02-24,3.0,Negotiation,3,Won,
+OPP-00352,SMB,Inbound,Rep G,1096.37,2026-05-16,,,Negotiation,3,Open,
+OPP-00353,SMB,Inbound,Rep B,1977.58,2025-10-02,2025-11-05,34.0,Qualification,1,Lost,No Decision
+OPP-00354,Mid-Market,Outbound,Rep H,12510.19,2026-05-29,2026-07-11,43.0,Prospecting,0,Lost,No Budget
+OPP-00355,Mid-Market,Outbound,Rep G,27956.04,2025-11-25,2026-01-12,48.0,Proposal,2,Lost,Price
+OPP-00356,Enterprise,Inbound,Rep D,68011.13,2025-11-12,2026-01-23,72.0,Prospecting,0,Lost,No Decision
+OPP-00357,Mid-Market,Partner,Rep A,16142.48,2026-03-13,2026-04-20,38.0,Negotiation,3,Won,
+OPP-00358,SMB,Inbound,Rep G,2470.13,2026-05-10,2026-05-24,14.0,Negotiation,3,Won,
+OPP-00359,SMB,Outbound,Rep G,500.0,2026-02-16,,,Negotiation,3,Open,
+OPP-00360,SMB,Inbound,Rep E,2182.95,2025-11-25,2025-12-18,23.0,Proposal,2,Lost,No Budget
+OPP-00361,SMB,Outbound,Rep C,4637.38,2025-12-25,2026-01-15,21.0,Proposal,2,Lost,Competitor
+OPP-00362,Mid-Market,Inbound,Rep G,19405.95,2025-11-13,2025-12-22,39.0,Negotiation,3,Won,
+OPP-00363,SMB,Inbound,Rep F,1598.64,2025-11-08,2025-11-18,10.0,Proposal,2,Lost,No Decision
+OPP-00364,SMB,Inbound,Rep C,3298.86,2025-10-16,2025-11-22,37.0,Negotiation,3,Won,
+OPP-00365,SMB,Inbound,Rep F,6115.07,2026-06-01,2026-06-12,11.0,Negotiation,3,Lost,Timing
+OPP-00366,SMB,Inbound,Rep B,1111.79,2025-11-21,2025-12-17,26.0,Negotiation,3,Won,
+OPP-00367,SMB,Event,Rep E,4108.99,2026-07-14,,,Prospecting,0,Open,
+OPP-00368,Mid-Market,Outbound,Rep F,24561.64,2025-10-21,2025-11-23,33.0,Proposal,2,Lost,No Budget
+OPP-00369,Enterprise,Outbound,Rep C,112341.34,2025-10-01,2026-02-04,126.0,Qualification,1,Lost,No Budget
+OPP-00370,SMB,Inbound,Rep A,4823.22,2026-05-26,,,Proposal,2,Open,
+OPP-00371,SMB,Inbound,Rep C,1763.8,2026-04-11,2026-04-19,8.0,Prospecting,0,Lost,Price
+OPP-00372,Enterprise,Partner,Rep C,59584.95,2026-04-03,2026-07-18,106.0,Negotiation,3,Won,
+OPP-00373,SMB,Inbound,Rep H,1312.61,2026-04-13,2026-05-11,28.0,Prospecting,0,Lost,No Budget
+OPP-00374,SMB,Inbound,Rep G,2403.33,2026-05-20,2026-06-09,20.0,Prospecting,0,Lost,Timing
+OPP-00375,Mid-Market,Inbound,Rep C,17061.81,2026-01-27,,,Prospecting,0,Open,
+OPP-00376,SMB,Inbound,Rep E,2922.65,2025-12-20,2026-01-11,22.0,Negotiation,3,Lost,Competitor
+OPP-00377,Enterprise,Inbound,Rep B,122247.33,2026-03-02,2026-06-25,115.0,Negotiation,3,Lost,No Budget
+OPP-00378,SMB,Outbound,Rep A,3570.03,2025-10-30,2025-11-09,10.0,Prospecting,0,Lost,Price
+OPP-00379,Mid-Market,Inbound,Rep A,8465.64,2025-11-23,2025-12-16,23.0,Prospecting,0,Lost,No Decision
+OPP-00380,Mid-Market,Outbound,Rep D,25173.3,2026-05-07,2026-06-14,38.0,Qualification,1,Lost,Price
+OPP-00381,Mid-Market,Inbound,Rep A,25146.18,2026-03-21,2026-04-26,36.0,Prospecting,0,Lost,Competitor
+OPP-00382,SMB,Partner,Rep C,4812.39,2026-02-09,2026-03-16,35.0,Proposal,2,Lost,Competitor
+OPP-00383,SMB,Event,Rep D,2905.88,2025-10-18,,,Qualification,1,Open,
+OPP-00384,Mid-Market,Inbound,Rep A,14606.88,2026-03-05,2026-04-27,53.0,Negotiation,3,Won,
+OPP-00385,Mid-Market,Inbound,Rep H,12031.15,2025-10-04,2025-11-21,48.0,Negotiation,3,Lost,No Budget
+OPP-00386,Mid-Market,Outbound,Rep A,17686.87,2026-06-24,2026-07-17,23.0,Negotiation,3,Won,
+OPP-00387,SMB,Inbound,Rep G,1685.15,2026-06-14,2026-06-29,15.0,Qualification,1,Lost,Timing
+OPP-00388,SMB,Inbound,Rep F,2530.44,2026-03-23,2026-04-03,11.0,Prospecting,0,Lost,Price
+OPP-00389,SMB,Inbound,Rep E,500.0,2026-03-14,2026-03-25,11.0,Proposal,2,Lost,Price
+OPP-00390,SMB,Outbound,Rep G,4609.89,2026-04-20,2026-05-04,14.0,Negotiation,3,Won,
+OPP-00391,SMB,Event,Rep E,2125.51,2025-11-16,2025-12-08,22.0,Prospecting,0,Lost,No Decision
+OPP-00392,SMB,Event,Rep A,7632.77,2026-03-07,2026-03-29,22.0,Proposal,2,Lost,No Decision
+OPP-00393,SMB,Inbound,Rep C,3207.34,2026-06-29,,,Prospecting,0,Open,
+OPP-00394,Enterprise,Inbound,Rep F,28781.01,2026-02-20,,,Proposal,2,Open,
+OPP-00395,Mid-Market,Event,Rep G,18448.96,2026-02-17,2026-03-23,34.0,Prospecting,0,Lost,No Budget
+OPP-00396,SMB,Outbound,Rep E,3731.99,2026-04-02,2026-04-11,9.0,Negotiation,3,Won,
+OPP-00397,Enterprise,Event,Rep A,33610.77,2025-12-27,2026-03-25,88.0,Prospecting,0,Lost,Timing
+OPP-00398,Enterprise,Partner,Rep F,72919.51,2025-12-12,,,Proposal,2,Open,
+OPP-00399,Mid-Market,Inbound,Rep D,17608.38,2025-12-17,2025-12-28,11.0,Negotiation,3,Won,
+OPP-00400,SMB,Event,Rep C,2575.26,2026-05-04,2026-05-24,20.0,Proposal,2,Lost,Competitor
+OPP-00401,SMB,Inbound,Rep B,2581.17,2026-06-24,,,Negotiation,3,Open,
+OPP-00402,Mid-Market,Outbound,Rep D,17485.65,2026-04-09,2026-05-30,51.0,Qualification,1,Lost,Competitor
+OPP-00403,Enterprise,Outbound,Rep G,48351.79,2025-12-19,2026-04-10,112.0,Negotiation,3,Lost,No Decision
+OPP-00404,Enterprise,Outbound,Rep C,121814.92,2026-02-22,2026-04-12,49.0,Proposal,2,Lost,Timing
+OPP-00405,SMB,Outbound,Rep D,681.46,2026-06-04,2026-06-21,17.0,Negotiation,3,Won,
+OPP-00406,Mid-Market,Partner,Rep F,18805.92,2026-01-10,2026-03-10,59.0,Negotiation,3,Won,
+OPP-00407,Mid-Market,Partner,Rep G,11150.91,2026-03-26,2026-06-21,87.0,Negotiation,3,Won,
+OPP-00408,Enterprise,Partner,Rep A,134121.46,2026-03-16,2026-06-08,84.0,Negotiation,3,Won,
+OPP-00409,Mid-Market,Partner,Rep H,16011.31,2025-10-26,2026-01-07,73.0,Proposal,2,Lost,Price
+OPP-00410,SMB,Partner,Rep H,2192.55,2026-02-14,2026-03-03,17.0,Negotiation,3,Lost,Price
+OPP-00411,Mid-Market,Inbound,Rep D,11397.88,2026-02-21,2026-04-03,41.0,Negotiation,3,Won,
+OPP-00412,SMB,Outbound,Rep D,6095.84,2026-05-24,2026-06-21,28.0,Qualification,1,Lost,Competitor
+OPP-00413,SMB,Partner,Rep D,1036.36,2026-03-26,2026-04-17,22.0,Proposal,2,Lost,No Decision
+OPP-00414,SMB,Event,Rep C,4311.51,2026-05-22,2026-06-17,26.0,Prospecting,0,Lost,Price
+OPP-00415,SMB,Inbound,Rep G,3362.18,2025-12-10,2026-01-08,29.0,Negotiation,3,Won,
+OPP-00416,Mid-Market,Partner,Rep F,27254.95,2026-04-19,2026-06-12,54.0,Negotiation,3,Lost,Price
+OPP-00417,Mid-Market,Inbound,Rep D,21574.96,2025-10-13,2025-11-06,24.0,Negotiation,3,Lost,No Decision
+OPP-00418,SMB,Inbound,Rep C,3018.87,2026-06-21,,,Prospecting,0,Open,
+OPP-00419,SMB,Inbound,Rep E,5352.31,2026-01-02,2026-01-23,21.0,Proposal,2,Lost,No Budget
+OPP-00420,SMB,Inbound,Rep B,3706.88,2026-04-04,2026-04-11,7.0,Negotiation,3,Lost,No Budget
+OPP-00421,Mid-Market,Event,Rep B,16135.22,2025-10-29,2025-12-03,35.0,Proposal,2,Lost,No Budget
+OPP-00422,SMB,Partner,Rep F,500.0,2026-02-27,2026-03-24,25.0,Negotiation,3,Won,
+OPP-00423,Mid-Market,Inbound,Rep D,18793.59,2026-01-17,2026-02-12,26.0,Qualification,1,Lost,Price
+OPP-00424,SMB,Inbound,Rep A,4088.56,2025-11-14,2025-12-08,24.0,Prospecting,0,Lost,Price
+OPP-00425,Enterprise,Event,Rep B,38185.97,2025-11-10,,,Proposal,2,Open,
+OPP-00426,SMB,Outbound,Rep H,1464.53,2026-01-07,2026-01-26,19.0,Qualification,1,Lost,Competitor
+OPP-00427,SMB,Inbound,Rep C,6739.11,2026-02-01,2026-02-15,14.0,Negotiation,3,Won,
+OPP-00428,SMB,Inbound,Rep C,5187.26,2025-10-12,2025-10-30,18.0,Negotiation,3,Won,
+OPP-00429,Mid-Market,Partner,Rep H,22515.79,2025-10-13,,,Prospecting,0,Open,
+OPP-00430,Enterprise,Inbound,Rep D,115161.55,2025-10-11,2026-02-18,130.0,Proposal,2,Lost,No Budget
+OPP-00431,Mid-Market,Event,Rep B,32154.76,2026-05-10,2026-06-24,45.0,Negotiation,3,Lost,No Decision
+OPP-00432,SMB,Outbound,Rep G,2742.83,2026-02-06,2026-02-13,7.0,Negotiation,3,Lost,Price
+OPP-00433,Mid-Market,Partner,Rep E,16082.06,2026-03-13,2026-04-04,22.0,Qualification,1,Lost,No Budget
+OPP-00434,Mid-Market,Outbound,Rep H,23033.65,2026-05-03,2026-06-26,54.0,Negotiation,3,Won,
+OPP-00435,Mid-Market,Inbound,Rep G,20817.09,2025-10-23,2025-11-30,38.0,Negotiation,3,Lost,Competitor
+OPP-00436,SMB,Inbound,Rep H,3731.83,2025-11-16,2025-12-08,22.0,Negotiation,3,Won,
+OPP-00437,SMB,Inbound,Rep G,1969.59,2026-01-05,2026-01-23,18.0,Negotiation,3,Lost,No Decision
+OPP-00438,Mid-Market,Partner,Rep A,20992.37,2026-03-05,,,Negotiation,3,Open,
+OPP-00439,Enterprise,Inbound,Rep G,129897.75,2025-11-22,2026-02-01,71.0,Negotiation,3,Lost,Price
+OPP-00440,SMB,Outbound,Rep A,3783.54,2025-11-14,2025-11-30,16.0,Proposal,2,Lost,Timing
+OPP-00441,SMB,Inbound,Rep B,3120.91,2025-12-31,2026-01-11,11.0,Negotiation,3,Won,
+OPP-00442,SMB,Outbound,Rep G,4044.62,2026-03-08,,,Proposal,2,Open,
+OPP-00443,Mid-Market,Inbound,Rep F,19974.62,2025-12-11,2026-01-28,48.0,Negotiation,3,Lost,No Budget
+OPP-00444,Mid-Market,Inbound,Rep D,28811.15,2025-12-13,2026-01-16,34.0,Proposal,2,Lost,Competitor
+OPP-00445,Mid-Market,Outbound,Rep E,24300.0,2026-04-04,,,Qualification,1,Open,
+OPP-00446,Mid-Market,Inbound,Rep C,16408.06,2026-03-12,2026-04-18,37.0,Negotiation,3,Lost,No Budget
+OPP-00447,SMB,Inbound,Rep F,4139.08,2026-01-13,2026-02-02,20.0,Qualification,1,Lost,Timing
+OPP-00448,SMB,Partner,Rep D,984.15,2026-04-10,2026-05-01,21.0,Qualification,1,Lost,Competitor
+OPP-00449,SMB,Outbound,Rep A,3562.66,2025-12-01,,,Negotiation,3,Open,
+OPP-00450,Enterprise,Outbound,Rep A,86491.79,2025-10-04,2026-03-01,148.0,Negotiation,3,Lost,Timing
+OPP-00451,SMB,Event,Rep B,510.6,2026-07-02,2026-07-11,9.0,Negotiation,3,Won,
+OPP-00452,Mid-Market,Outbound,Rep A,20107.79,2026-03-02,2026-04-30,59.0,Prospecting,0,Lost,Price
+OPP-00453,SMB,Partner,Rep G,2631.75,2026-05-14,2026-06-10,27.0,Negotiation,3,Won,
+OPP-00454,Mid-Market,Outbound,Rep F,24711.65,2026-01-02,2026-03-06,63.0,Proposal,2,Lost,Competitor
+OPP-00455,Mid-Market,Outbound,Rep D,11227.57,2026-04-29,2026-07-15,77.0,Proposal,2,Lost,Timing
+OPP-00456,SMB,Event,Rep B,2745.62,2026-03-02,,,Proposal,2,Open,
+OPP-00457,SMB,Inbound,Rep D,2859.02,2025-10-25,,,Negotiation,3,Open,
+OPP-00458,SMB,Outbound,Rep B,2477.45,2025-11-30,,,Negotiation,3,Open,
+OPP-00459,SMB,Outbound,Rep H,1178.0,2026-04-20,,,Prospecting,0,Open,
+OPP-00460,Enterprise,Event,Rep E,143248.16,2025-12-03,,,Prospecting,0,Open,
+OPP-00461,SMB,Inbound,Rep F,1081.94,2026-01-31,,,Proposal,2,Open,
+OPP-00462,SMB,Outbound,Rep H,5109.92,2025-11-27,,,Proposal,2,Open,
+OPP-00463,SMB,Outbound,Rep B,2606.84,2026-03-20,2026-04-01,12.0,Prospecting,0,Lost,Price
+OPP-00464,SMB,Event,Rep D,2045.26,2025-10-23,2025-11-12,20.0,Negotiation,3,Won,
+OPP-00465,SMB,Inbound,Rep H,6669.48,2025-11-24,2025-11-29,5.0,Negotiation,3,Won,
+OPP-00466,Enterprise,Inbound,Rep C,38785.19,2025-11-12,2025-12-09,27.0,Qualification,1,Lost,Competitor
+OPP-00467,Enterprise,Inbound,Rep E,46443.24,2025-11-17,2026-03-11,114.0,Negotiation,3,Won,
+OPP-00468,Mid-Market,Inbound,Rep H,10606.14,2026-04-17,2026-06-12,56.0,Proposal,2,Lost,Competitor
+OPP-00469,Enterprise,Outbound,Rep B,136815.86,2026-01-22,,,Prospecting,0,Open,
+OPP-00470,SMB,Partner,Rep D,2924.12,2026-01-31,2026-02-28,28.0,Negotiation,3,Won,
+OPP-00471,Enterprise,Outbound,Rep E,70729.42,2026-02-28,2026-06-03,95.0,Proposal,2,Lost,No Budget
+OPP-00472,Mid-Market,Partner,Rep C,21618.93,2026-01-14,2026-02-21,38.0,Negotiation,3,Lost,Price
+OPP-00473,Mid-Market,Inbound,Rep B,19642.17,2026-05-02,2026-07-11,70.0,Proposal,2,Lost,Competitor
+OPP-00474,SMB,Inbound,Rep G,2616.54,2026-03-16,2026-03-31,15.0,Negotiation,3,Won,
+OPP-00475,SMB,Inbound,Rep C,1637.91,2026-06-21,2026-07-11,20.0,Prospecting,0,Lost,Price
+OPP-00476,SMB,Partner,Rep F,2025.59,2025-12-05,2025-12-12,7.0,Proposal,2,Lost,No Budget
+OPP-00477,Enterprise,Inbound,Rep E,55669.33,2026-03-09,,,Proposal,2,Open,
+OPP-00478,Mid-Market,Partner,Rep E,17208.72,2026-04-16,2026-06-22,67.0,Negotiation,3,Lost,Price
+OPP-00479,Mid-Market,Event,Rep H,11788.27,2026-06-19,2026-07-19,30.0,Qualification,1,Lost,No Decision
+OPP-00480,SMB,Outbound,Rep G,1913.14,2026-04-28,2026-05-17,19.0,Proposal,2,Lost,Competitor
+OPP-00481,SMB,Outbound,Rep D,834.83,2026-05-23,2026-06-02,10.0,Prospecting,0,Lost,Price
+OPP-00482,SMB,Inbound,Rep A,2187.6,2026-01-26,2026-02-17,22.0,Proposal,2,Lost,Competitor
+OPP-00483,Mid-Market,Inbound,Rep A,19714.57,2026-01-19,2026-03-20,60.0,Qualification,1,Lost,Timing
+OPP-00484,SMB,Outbound,Rep A,2670.61,2026-03-05,2026-03-21,16.0,Negotiation,3,Lost,No Decision
+OPP-00485,SMB,Partner,Rep B,2235.03,2026-07-03,2026-07-29,26.0,Negotiation,3,Lost,Price
+OPP-00486,Mid-Market,Outbound,Rep D,23282.51,2025-10-31,,,Negotiation,3,Open,
+OPP-00487,SMB,Inbound,Rep D,3825.52,2025-12-18,2026-01-11,24.0,Negotiation,3,Won,
+OPP-00488,Enterprise,Inbound,Rep F,149764.43,2026-03-28,,,Prospecting,0,Open,
+OPP-00489,Mid-Market,Partner,Rep E,21911.4,2026-01-22,2026-03-16,53.0,Qualification,1,Lost,Competitor
+OPP-00490,SMB,Outbound,Rep A,2031.61,2026-07-03,2026-07-26,23.0,Negotiation,3,Won,
+OPP-00491,SMB,Inbound,Rep B,2543.53,2026-06-10,2026-06-26,16.0,Negotiation,3,Won,
+OPP-00492,Mid-Market,Inbound,Rep F,13736.28,2026-04-04,,,Negotiation,3,Open,
+OPP-00493,SMB,Inbound,Rep G,2683.33,2026-05-12,2026-06-01,20.0,Negotiation,3,Won,
+OPP-00494,Mid-Market,Partner,Rep G,17186.61,2025-10-06,2025-10-25,19.0,Qualification,1,Lost,Price
+OPP-00495,SMB,Outbound,Rep A,4578.63,2026-02-10,2026-03-03,21.0,Negotiation,3,Won,
+OPP-00496,Enterprise,Event,Rep G,95645.27,2026-03-18,2026-05-17,60.0,Negotiation,3,Lost,Timing
+OPP-00497,Mid-Market,Event,Rep D,12776.64,2025-11-28,,,Qualification,1,Open,
+OPP-00498,SMB,Event,Rep H,4806.76,2026-01-10,2026-01-28,18.0,Negotiation,3,Won,
+OPP-00499,Enterprise,Inbound,Rep C,72134.16,2026-05-19,2026-07-31,73.0,Negotiation,3,Won,
+OPP-00500,SMB,Inbound,Rep G,1735.3,2026-02-04,2026-02-24,20.0,Proposal,2,Lost,Competitor
+OPP-00501,Mid-Market,Event,Rep E,27726.92,2025-11-03,2025-12-14,41.0,Negotiation,3,Lost,No Budget
+OPP-00502,Mid-Market,Partner,Rep B,17159.4,2026-05-13,2026-07-17,65.0,Qualification,1,Lost,Timing
+OPP-00503,Mid-Market,Outbound,Rep C,9652.63,2026-02-27,,,Prospecting,0,Open,
+OPP-00504,Mid-Market,Event,Rep F,26137.24,2025-10-17,2025-12-11,55.0,Prospecting,0,Lost,Price
+OPP-00505,SMB,Outbound,Rep E,3046.7,2026-05-03,2026-05-14,11.0,Negotiation,3,Lost,Competitor
+OPP-00506,Mid-Market,Inbound,Rep G,28259.62,2025-10-14,2025-11-23,40.0,Negotiation,3,Lost,Competitor
+OPP-00507,SMB,Partner,Rep F,2445.82,2026-07-06,2026-07-26,20.0,Negotiation,3,Won,
+OPP-00508,SMB,Outbound,Rep B,2283.6,2025-12-23,,,Qualification,1,Open,
+OPP-00509,SMB,Outbound,Rep E,3591.9,2025-11-23,2025-12-25,32.0,Negotiation,3,Won,
+OPP-00510,Mid-Market,Inbound,Rep C,27859.14,2026-07-01,2026-07-07,6.0,Negotiation,3,Won,
+OPP-00511,Mid-Market,Outbound,Rep B,13239.52,2026-02-13,2026-03-28,43.0,Proposal,2,Lost,Price
+OPP-00512,Mid-Market,Inbound,Rep G,13383.52,2025-10-05,2025-12-14,70.0,Proposal,2,Lost,No Decision
+OPP-00513,SMB,Event,Rep G,3389.42,2025-10-15,2025-11-18,34.0,Negotiation,3,Won,
+OPP-00514,SMB,Partner,Rep H,3368.92,2026-02-25,2026-03-14,17.0,Negotiation,3,Won,
+OPP-00515,Mid-Market,Inbound,Rep E,12989.0,2025-11-18,,,Prospecting,0,Open,
+OPP-00516,SMB,Inbound,Rep B,3708.01,2026-01-14,2026-02-05,22.0,Negotiation,3,Lost,Price
+OPP-00517,SMB,Inbound,Rep D,2293.62,2026-06-19,,,Prospecting,0,Open,
+OPP-00518,SMB,Inbound,Rep D,2159.51,2026-05-29,2026-06-18,20.0,Proposal,2,Lost,Competitor
+OPP-00519,SMB,Inbound,Rep D,803.2,2026-06-02,2026-06-11,9.0,Negotiation,3,Won,
+OPP-00520,SMB,Event,Rep F,3508.49,2026-04-09,2026-04-24,15.0,Negotiation,3,Won,
+OPP-00521,Enterprise,Inbound,Rep B,80197.07,2026-01-02,2026-04-29,117.0,Qualification,1,Lost,Timing
+OPP-00522,Enterprise,Outbound,Rep H,68464.59,2026-05-05,2026-06-29,55.0,Prospecting,0,Lost,Competitor
+OPP-00523,Mid-Market,Outbound,Rep F,22277.01,2025-10-31,2025-11-20,20.0,Proposal,2,Lost,Competitor
+OPP-00524,Enterprise,Partner,Rep D,68745.59,2026-01-19,,,Prospecting,0,Open,
+OPP-00525,SMB,Outbound,Rep G,2876.51,2026-03-13,2026-04-10,28.0,Prospecting,0,Lost,Price
+OPP-00526,SMB,Outbound,Rep B,1871.96,2025-12-10,,,Proposal,2,Open,
+OPP-00527,Mid-Market,Event,Rep D,26094.39,2026-03-30,2026-05-25,56.0,Negotiation,3,Won,
+OPP-00528,Mid-Market,Partner,Rep F,16678.79,2026-02-20,,,Qualification,1,Open,
+OPP-00529,Mid-Market,Event,Rep F,31355.64,2025-10-08,2025-12-04,57.0,Qualification,1,Lost,Price
+OPP-00530,Enterprise,Inbound,Rep B,49290.78,2025-10-15,2026-01-21,98.0,Negotiation,3,Won,
+OPP-00531,Mid-Market,Inbound,Rep B,16271.8,2025-10-07,2025-10-31,24.0,Qualification,1,Lost,Price
+OPP-00532,Mid-Market,Inbound,Rep F,20671.83,2025-10-10,2025-11-23,44.0,Qualification,1,Lost,Timing
+OPP-00533,SMB,Inbound,Rep D,3446.9,2025-10-24,2025-11-04,11.0,Negotiation,3,Won,
+OPP-00534,Mid-Market,Partner,Rep G,14383.63,2026-03-17,2026-05-12,56.0,Negotiation,3,Lost,No Budget
+OPP-00535,Enterprise,Inbound,Rep G,48235.3,2025-11-11,2026-02-26,107.0,Qualification,1,Lost,Competitor
+OPP-00536,SMB,Outbound,Rep D,2282.21,2026-04-15,2026-04-18,3.0,Negotiation,3,Won,
+OPP-00537,Enterprise,Inbound,Rep F,60463.57,2025-11-19,2026-04-11,143.0,Qualification,1,Lost,Competitor
+OPP-00538,SMB,Outbound,Rep A,1876.97,2025-12-01,2025-12-19,18.0,Negotiation,3,Lost,Price
+OPP-00539,Mid-Market,Partner,Rep G,20228.51,2025-12-11,2026-01-22,42.0,Negotiation,3,Won,
+OPP-00540,SMB,Outbound,Rep C,1943.76,2026-04-09,2026-05-08,29.0,Negotiation,3,Won,
+OPP-00541,SMB,Inbound,Rep A,1628.17,2026-07-11,2026-07-31,20.0,Negotiation,3,Won,
+OPP-00542,SMB,Outbound,Rep D,1549.81,2025-11-05,,,Proposal,2,Open,
+OPP-00543,Enterprise,Event,Rep D,56332.39,2025-10-29,2026-03-02,124.0,Proposal,2,Lost,Price
+OPP-00544,Mid-Market,Outbound,Rep F,9201.11,2025-12-16,,,Negotiation,3,Open,
+OPP-00545,SMB,Outbound,Rep F,500.0,2025-10-23,2025-11-11,19.0,Prospecting,0,Lost,Timing
+OPP-00546,Mid-Market,Event,Rep B,8588.66,2026-01-24,2026-03-14,49.0,Proposal,2,Lost,Price
+OPP-00547,Mid-Market,Event,Rep D,23608.25,2026-02-01,2026-03-20,47.0,Negotiation,3,Lost,Competitor
+OPP-00548,SMB,Inbound,Rep D,2730.12,2025-10-25,2025-11-18,24.0,Negotiation,3,Won,
+OPP-00549,SMB,Partner,Rep D,4303.05,2026-03-14,2026-03-29,15.0,Negotiation,3,Won,
+OPP-00550,Mid-Market,Outbound,Rep B,17621.47,2026-02-14,2026-04-08,53.0,Prospecting,0,Lost,Competitor
+OPP-00551,Mid-Market,Inbound,Rep A,15041.22,2026-06-05,2026-07-10,35.0,Negotiation,3,Won,
+OPP-00552,Enterprise,Partner,Rep E,105680.87,2025-11-02,2026-01-02,61.0,Negotiation,3,Won,
+OPP-00553,SMB,Partner,Rep C,4180.63,2026-02-07,2026-02-19,12.0,Prospecting,0,Lost,Price
+OPP-00554,Mid-Market,Inbound,Rep C,500.0,2026-02-28,2026-03-29,29.0,Prospecting,0,Lost,No Decision
+OPP-00555,Mid-Market,Outbound,Rep D,17588.52,2025-12-14,2026-01-16,33.0,Qualification,1,Lost,No Budget
+OPP-00556,Mid-Market,Inbound,Rep H,17413.24,2025-10-02,,,Qualification,1,Open,
+OPP-00557,SMB,Inbound,Rep D,3850.46,2026-07-20,2026-08-01,12.0,Negotiation,3,Lost,Timing
+OPP-00558,SMB,Partner,Rep C,2330.81,2025-10-05,2025-10-27,22.0,Qualification,1,Lost,Price
+OPP-00559,SMB,Outbound,Rep B,5421.17,2026-02-03,2026-02-21,18.0,Negotiation,3,Won,
+OPP-00560,SMB,Partner,Rep H,2707.49,2026-02-05,2026-02-18,13.0,Negotiation,3,Won,
+OPP-00561,Mid-Market,Outbound,Rep F,20527.01,2025-10-04,2025-11-28,55.0,Proposal,2,Lost,No Budget
+OPP-00562,Mid-Market,Inbound,Rep D,22027.43,2026-01-11,2026-03-03,51.0,Negotiation,3,Won,
+OPP-00563,Mid-Market,Event,Rep F,25765.97,2026-04-05,2026-05-06,31.0,Negotiation,3,Lost,Price
+OPP-00564,SMB,Inbound,Rep G,2923.73,2025-12-19,2026-01-03,15.0,Negotiation,3,Won,
+OPP-00565,SMB,Inbound,Rep B,2510.06,2026-05-13,2026-05-29,16.0,Negotiation,3,Lost,Price
+OPP-00566,SMB,Event,Rep E,2928.37,2025-12-20,2026-01-04,15.0,Qualification,1,Lost,Timing
+OPP-00567,Mid-Market,Inbound,Rep D,10645.35,2026-02-05,2026-02-23,18.0,Negotiation,3,Won,
+OPP-00568,SMB,Outbound,Rep B,3252.31,2025-12-02,2025-12-26,24.0,Qualification,1,Lost,Price
+OPP-00569,Mid-Market,Outbound,Rep E,20576.07,2026-05-21,,,Prospecting,0,Open,
+OPP-00570,SMB,Event,Rep F,5757.92,2026-02-06,2026-02-21,15.0,Proposal,2,Lost,Price
+OPP-00571,Mid-Market,Event,Rep F,26591.04,2025-11-19,2025-12-21,32.0,Proposal,2,Lost,Timing
+OPP-00572,SMB,Outbound,Rep G,500.0,2026-02-18,2026-02-21,3.0,Qualification,1,Lost,Timing
+OPP-00573,Mid-Market,Outbound,Rep E,15017.4,2025-12-11,2026-01-25,45.0,Qualification,1,Lost,Price
+OPP-00574,SMB,Partner,Rep H,2147.34,2026-03-31,2026-04-17,17.0,Negotiation,3,Won,
+OPP-00575,Mid-Market,Inbound,Rep G,31166.13,2025-11-19,2025-12-31,42.0,Negotiation,3,Won,
+OPP-00576,Mid-Market,Event,Rep C,13899.3,2026-02-26,2026-04-23,56.0,Proposal,2,Lost,Price
+OPP-00577,Mid-Market,Inbound,Rep H,12318.8,2026-06-02,2026-06-22,20.0,Negotiation,3,Lost,Price
+OPP-00578,SMB,Outbound,Rep H,695.87,2025-10-03,2025-10-11,8.0,Prospecting,0,Lost,No Budget
+OPP-00579,Mid-Market,Inbound,Rep B,32259.9,2026-01-27,2026-02-14,18.0,Negotiation,3,Won,
+OPP-00580,Mid-Market,Event,Rep C,16436.97,2025-12-28,2026-01-18,21.0,Negotiation,3,Won,
+OPP-00581,SMB,Outbound,Rep E,2501.11,2025-10-02,2025-11-06,35.0,Qualification,1,Lost,Competitor
+OPP-00582,SMB,Inbound,Rep B,4405.45,2026-03-24,2026-04-15,22.0,Negotiation,3,Lost,Price
+OPP-00583,SMB,Outbound,Rep F,3339.09,2026-01-19,2026-02-18,30.0,Qualification,1,Lost,No Budget
+OPP-00584,SMB,Inbound,Rep G,2864.57,2026-03-20,2026-04-11,22.0,Negotiation,3,Lost,Timing
+OPP-00585,Mid-Market,Outbound,Rep C,26684.18,2026-02-25,,,Proposal,2,Open,
+OPP-00586,SMB,Event,Rep A,3535.36,2025-11-28,2025-12-07,9.0,Negotiation,3,Won,
+OPP-00587,Enterprise,Partner,Rep A,119047.73,2025-12-09,2026-03-03,84.0,Negotiation,3,Won,
+OPP-00588,Enterprise,Inbound,Rep G,96301.82,2025-11-07,2026-03-26,139.0,Prospecting,0,Lost,Timing
+OPP-00589,SMB,Outbound,Rep G,3385.18,2025-10-17,2025-10-21,4.0,Negotiation,3,Won,
+OPP-00590,SMB,Inbound,Rep B,2758.16,2026-01-06,2026-02-08,33.0,Qualification,1,Lost,Price
+OPP-00591,SMB,Outbound,Rep H,500.0,2026-02-14,,,Prospecting,0,Open,
+OPP-00592,Mid-Market,Inbound,Rep C,13356.55,2025-10-13,2025-12-06,54.0,Negotiation,3,Won,
+OPP-00593,Mid-Market,Outbound,Rep F,15672.06,2026-04-12,2026-06-01,50.0,Negotiation,3,Lost,No Budget
+OPP-00594,Mid-Market,Outbound,Rep H,21931.63,2026-02-15,2026-04-17,61.0,Negotiation,3,Won,
+OPP-00595,Mid-Market,Partner,Rep B,20936.48,2026-02-08,2026-03-30,50.0,Negotiation,3,Won,
+OPP-00596,Mid-Market,Partner,Rep D,14052.88,2026-06-09,2026-07-13,34.0,Prospecting,0,Lost,Competitor
+OPP-00597,Mid-Market,Inbound,Rep A,13123.38,2025-10-11,2025-12-01,51.0,Negotiation,3,Won,
+OPP-00598,Enterprise,Event,Rep D,95571.44,2025-11-11,2026-03-09,118.0,Proposal,2,Lost,Price
+OPP-00599,SMB,Inbound,Rep C,1214.14,2025-12-29,2026-01-23,25.0,Negotiation,3,Won,
+OPP-00600,Mid-Market,Event,Rep G,500.0,2025-12-12,2026-01-24,43.0,Negotiation,3,Won,
+OPP-00601,SMB,Inbound,Rep A,2920.92,2026-03-14,2026-04-09,26.0,Negotiation,3,Won,
+OPP-00602,Enterprise,Event,Rep A,85193.59,2026-03-02,2026-05-11,70.0,Negotiation,3,Lost,Price
+OPP-00603,SMB,Partner,Rep G,4529.26,2025-11-19,,,Proposal,2,Open,
+OPP-00604,SMB,Inbound,Rep A,2590.86,2026-01-21,,,Proposal,2,Open,
+OPP-00605,Mid-Market,Inbound,Rep A,16472.37,2026-05-26,2026-07-05,40.0,Proposal,2,Lost,Price
+OPP-00606,Mid-Market,Event,Rep G,31396.5,2025-12-31,2026-02-09,40.0,Qualification,1,Lost,Price
+OPP-00607,SMB,Outbound,Rep C,3149.57,2026-06-26,,,Prospecting,0,Open,
+OPP-00608,SMB,Outbound,Rep G,6045.56,2026-01-24,2026-02-13,20.0,Prospecting,0,Lost,Price
+OPP-00609,SMB,Inbound,Rep B,1579.41,2025-10-31,2025-11-09,9.0,Prospecting,0,Lost,Price
+OPP-00610,SMB,Inbound,Rep H,2609.89,2026-01-23,2026-02-14,22.0,Qualification,1,Lost,Price
+OPP-00611,SMB,Outbound,Rep G,2700.22,2025-12-29,2026-01-10,12.0,Proposal,2,Lost,Competitor
+OPP-00612,SMB,Inbound,Rep F,5059.76,2025-12-13,2026-01-02,20.0,Negotiation,3,Lost,No Budget
+OPP-00613,SMB,Outbound,Rep G,3620.22,2026-03-16,2026-04-06,21.0,Qualification,1,Lost,Price
+OPP-00614,SMB,Event,Rep B,5377.89,2026-06-15,2026-06-26,11.0,Qualification,1,Lost,Timing
+OPP-00615,Mid-Market,Partner,Rep H,11870.6,2026-06-16,2026-07-21,35.0,Qualification,1,Lost,Price
+OPP-00616,SMB,Partner,Rep E,1952.05,2026-01-09,2026-01-12,3.0,Proposal,2,Lost,Timing
+OPP-00617,Mid-Market,Event,Rep E,32418.36,2025-10-25,2025-12-06,42.0,Negotiation,3,Lost,Competitor
+OPP-00618,SMB,Outbound,Rep A,3577.96,2025-12-23,2026-01-01,9.0,Negotiation,3,Won,
+OPP-00619,SMB,Outbound,Rep H,1432.79,2025-10-12,2025-10-30,18.0,Qualification,1,Lost,Price
+OPP-00620,Mid-Market,Event,Rep C,16462.58,2026-03-04,2026-04-21,48.0,Qualification,1,Lost,Timing
+OPP-00621,Mid-Market,Inbound,Rep A,15242.69,2026-05-06,2026-05-30,24.0,Negotiation,3,Lost,Price
+OPP-00622,SMB,Inbound,Rep E,4326.28,2025-10-20,2025-11-11,22.0,Proposal,2,Lost,Price
+OPP-00623,Enterprise,Partner,Rep G,75364.18,2026-03-29,2026-07-13,106.0,Proposal,2,Lost,No Budget
+OPP-00624,Mid-Market,Outbound,Rep A,20350.92,2026-05-29,2026-07-01,33.0,Negotiation,3,Lost,Timing
+OPP-00625,SMB,Inbound,Rep A,7861.89,2026-03-31,2026-04-26,26.0,Negotiation,3,Won,
+OPP-00626,Mid-Market,Inbound,Rep E,23496.35,2026-05-07,2026-06-02,26.0,Negotiation,3,Won,
+OPP-00627,Mid-Market,Inbound,Rep G,24323.64,2026-05-24,2026-07-15,52.0,Negotiation,3,Won,
+OPP-00628,Enterprise,Outbound,Rep A,58640.65,2025-11-29,2026-03-30,121.0,Negotiation,3,Won,
+OPP-00629,Mid-Market,Inbound,Rep D,18863.17,2026-02-26,2026-04-04,37.0,Negotiation,3,Won,
+OPP-00630,SMB,Inbound,Rep E,3447.65,2026-01-03,2026-01-24,21.0,Proposal,2,Lost,Price
+OPP-00631,Enterprise,Inbound,Rep G,169961.52,2026-01-10,2026-04-18,98.0,Negotiation,3,Won,
+OPP-00632,Enterprise,Outbound,Rep H,56666.89,2026-01-17,2026-05-21,124.0,Proposal,2,Lost,No Budget
+OPP-00633,Mid-Market,Inbound,Rep H,11122.81,2026-06-18,2026-07-17,29.0,Negotiation,3,Won,
+OPP-00634,Mid-Market,Partner,Rep A,4479.25,2026-05-01,2026-06-18,48.0,Proposal,2,Lost,Price
+OPP-00635,Mid-Market,Partner,Rep F,12299.99,2026-02-12,2026-04-05,52.0,Qualification,1,Lost,Price
+OPP-00636,Mid-Market,Inbound,Rep A,24246.61,2026-04-26,2026-06-14,49.0,Negotiation,3,Won,
+OPP-00637,Mid-Market,Inbound,Rep A,17437.21,2026-06-13,2026-07-17,34.0,Prospecting,0,Lost,Price
+OPP-00638,SMB,Outbound,Rep F,2700.69,2026-01-09,2026-01-26,17.0,Negotiation,3,Lost,Timing
+OPP-00639,SMB,Outbound,Rep H,5885.44,2026-04-11,2026-04-26,15.0,Negotiation,3,Lost,Price
+OPP-00640,Enterprise,Inbound,Rep B,82702.93,2026-01-25,,,Prospecting,0,Open,
+OPP-00641,Mid-Market,Event,Rep E,15783.64,2026-04-26,2026-06-06,41.0,Negotiation,3,Won,
+OPP-00642,Mid-Market,Outbound,Rep C,28692.72,2026-05-27,2026-07-28,62.0,Negotiation,3,Won,
+OPP-00643,SMB,Outbound,Rep F,571.7,2025-12-22,2026-01-02,11.0,Qualification,1,Lost,No Decision
+OPP-00644,Mid-Market,Inbound,Rep D,26318.36,2025-12-31,2026-02-09,40.0,Qualification,1,Lost,No Budget
+OPP-00645,SMB,Inbound,Rep A,3758.24,2026-03-18,2026-04-11,24.0,Negotiation,3,Won,
+OPP-00646,Enterprise,Outbound,Rep H,106432.07,2025-11-22,,,Qualification,1,Open,
+OPP-00647,SMB,Outbound,Rep C,2939.81,2026-01-02,2026-01-25,23.0,Negotiation,3,Won,
+OPP-00648,Enterprise,Inbound,Rep F,96036.97,2025-11-30,2026-01-31,62.0,Negotiation,3,Won,
+OPP-00649,SMB,Event,Rep A,3484.8,2026-02-20,2026-03-13,21.0,Negotiation,3,Won,
+OPP-00650,SMB,Event,Rep E,596.59,2026-04-20,2026-05-07,17.0,Negotiation,3,Lost,No Budget

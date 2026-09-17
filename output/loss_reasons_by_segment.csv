@@ -1,0 +1,16 @@
+segment,loss_reason,n,pct_of_segment_losses
+Enterprise,No Budget,23,38.3
+Enterprise,Competitor,13,21.7
+Enterprise,Timing,12,20.0
+Enterprise,Price,8,13.3
+Enterprise,No Decision,4,6.7
+Mid-Market,Price,45,33.6
+Mid-Market,Competitor,32,23.9
+Mid-Market,No Budget,28,20.9
+Mid-Market,No Decision,15,11.2
+Mid-Market,Timing,14,10.4
+SMB,Price,68,41.7
+SMB,Competitor,35,21.5
+SMB,Timing,26,16.0
+SMB,No Decision,18,11.0
+SMB,No Budget,16,9.8

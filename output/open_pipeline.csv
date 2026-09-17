@@ -1,0 +1,12 @@
+segment,current_stage,open_opps,open_amount
+Enterprise,Prospecting,6,596154.0
+Enterprise,Proposal,5,297820.0
+Enterprise,Qualification,1,106432.0
+Mid-Market,Qualification,13,236258.0
+Mid-Market,Negotiation,7,120506.0
+Mid-Market,Proposal,5,118870.0
+Mid-Market,Prospecting,7,112167.0
+SMB,Proposal,14,43827.0
+SMB,Qualification,12,41279.0
+SMB,Negotiation,11,26884.0
+SMB,Prospecting,10,26460.0
